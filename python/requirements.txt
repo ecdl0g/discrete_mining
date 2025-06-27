@@ -1,0 +1,3 @@
+sympy
+gmpy2
+base58
